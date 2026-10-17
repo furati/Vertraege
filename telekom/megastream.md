@@ -27,14 +27,15 @@ Am 13.10.2026 kam auch eine **Mobilfunk-Auftragsbestätigung** (Kundenkonto 0055
 | Netflix | Premium (Upgrade, Standard ist inklusive) | ✅ verknüpft – Netflix bestätigt Partner „Telekom Deutschland GmbH", Abo Premium | ralf@buhlrich.com | Zahlungsangaben am 17.10. auf Telekom umgestellt. Bestehendes Konto wurde übernommen → **eigene Netflix-Zahlung prüfen/ist erledigt** |
 | Disney+ | Standard | ✅ Konto angelegt/angemeldet (Nutzungsvertrag + Login-Mails vom 17.10.) | ralf@buhlrich.com | Ein evtl. altes Disney+-Abo wird pausiert, nicht gekündigt |
 | RTL+ | Premium | ✅ aktiv – registriert und E-Mail bestätigt (17.10., Willkommensmail 08:28) | ralf@buhlrich.com | Premium-Status über Telekom in der RTL+-App prüfen |
-| Apple TV | Apple TV by Telekom | 🟡 laut Ralf am 17.10. registriert – **Bestätigungsmail von Apple steht noch aus** | ralf@buhlrich.com (Apple Account) | Gleiche Apple-ID verwenden, sonst doppelte Kosten |
+| Apple TV | Apple TV by Telekom | ✅ aktiviert am 17.10. über den Link in der Telekom-Mail – Apple hat nur auf dem Bildschirm bestätigt, keine Bestätigungsmail | ralf@buhlrich.com (Apple Account) | Gleiche Apple-ID verwenden, sonst doppelte Kosten |
 | MagentaTV+ (Megathek) | inklusive | – | Telekom-Login | Keine eigene Registrierung nötig |
 | Paramount+ | **nicht Teil von MegaStream** | ❓ keine Mail gefunden | – | Nur als separate Zubuchoption („Paramount+ by Telekom"). Falls gebucht, kam noch keine Registrierungsmail |
 
 ## Offene Punkte
 
 - [x] RTL+ aktiviert
-- [ ] Apple TV: Abo-Bestätigung von Apple abwarten und prüfen (Abos in den Apple-ID-Einstellungen: Partner Telekom, kein doppeltes Direkt-Abo)
+- [x] Apple TV aktiviert
+- [ ] Apple TV: in den Abo-Einstellungen der Apple-ID prüfen, dass kein zweites, direkt bezahltes Apple-TV-Abo läuft
 - [ ] Paramount+ klären: gebucht oder nicht? Falls ja, Registrierungsmail abwarten / in MeinMagenta prüfen
 - [ ] Bestehende Direkt-Abos prüfen und ggf. kündigen (Disney+ wird nur pausiert; Apple TV+/RTL+ direkt bezahlt?)
 - [ ] Netflix-Upgrade auf Premium: Aufpreis in Vertragszusammenfassung/Auftrag 91183779190 prüfen
