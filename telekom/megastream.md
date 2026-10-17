@@ -26,14 +26,14 @@ Am 13.10.2026 kam auch eine **Mobilfunk-Auftragsbestätigung** (Kundenkonto 0055
 |---|---|---|---|---|
 | Netflix | Premium (Upgrade, Standard ist inklusive) | ✅ verknüpft – Netflix bestätigt Partner „Telekom Deutschland GmbH", Abo Premium | ralf@buhlrich.com | Zahlungsangaben am 17.10. auf Telekom umgestellt. Bestehendes Konto wurde übernommen → **eigene Netflix-Zahlung prüfen/ist erledigt** |
 | Disney+ | Standard | ✅ Konto angelegt/angemeldet (Nutzungsvertrag + Login-Mails vom 17.10.) | ralf@buhlrich.com | Ein evtl. altes Disney+-Abo wird pausiert, nicht gekündigt |
-| RTL+ | Premium | ⏳ **noch nicht aktiviert** (Mail ungelesen) | gleiche Mail wie bestehender Account verwenden | Aktivierungslink in Mail „Aktivieren Sie jetzt Ihr RTL+ Konto" |
+| RTL+ | Premium | 🟡 registriert am 17.10. 08:21 – **E-Mail-Bestätigung noch offen** | ralf@buhlrich.com | Bestätigungslink in Mail „Willkommen bei RTL+! Aktiviere jetzt deine E-Mail-Adresse" (noreply@rtlplus.com) |
 | Apple TV | Apple TV by Telekom | ⏳ **noch nicht registriert** (Mail ungelesen) | ralf@buhlrich.com (Apple Account) | Gleiche Apple-ID verwenden, sonst doppelte Kosten |
 | MagentaTV+ (Megathek) | inklusive | – | Telekom-Login | Keine eigene Registrierung nötig |
 | Paramount+ | **nicht Teil von MegaStream** | ❓ keine Mail gefunden | – | Nur als separate Zubuchoption („Paramount+ by Telekom"). Falls gebucht, kam noch keine Registrierungsmail |
 
 ## Offene Punkte
 
-- [ ] RTL+ aktivieren
+- [ ] RTL+: E-Mail-Adresse bestätigen (Registrierung erledigt)
 - [ ] Apple TV by Telekom registrieren (mit bestehender Apple-ID ralf@buhlrich.com)
 - [ ] Paramount+ klären: gebucht oder nicht? Falls ja, Registrierungsmail abwarten / in MeinMagenta prüfen
 - [ ] Bestehende Direkt-Abos prüfen und ggf. kündigen (Disney+ wird nur pausiert; Apple TV+/RTL+ direkt bezahlt?)
@@ -71,3 +71,4 @@ Folgende Mails enthalten Geheimnisse und gehören in den Passwortmanager, nicht 
 | 17.10. 07:42 | Telekom | Bestätigung zu Ihrem Festnetz-Auftrag vom 17.10.2026 |
 | 17.10. 07:46 | Telekom | Registrieren Sie sich für Netflix Premium by Telekom (Upgrade) |
 | 17.10. 07:46 | Telekom | Wir haben alles für Sie erledigt (Auftrag 91183779190) |
+| 17.10. 08:21 | RTL+ | Willkommen bei RTL+! Aktiviere jetzt deine E-Mail-Adresse |
