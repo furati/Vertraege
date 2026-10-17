@@ -27,14 +27,14 @@ Am 13.10.2026 kam auch eine **Mobilfunk-Auftragsbestätigung** (Kundenkonto 0055
 | Netflix | Premium (Upgrade, Standard ist inklusive) | ✅ verknüpft – Netflix bestätigt Partner „Telekom Deutschland GmbH", Abo Premium | ralf@buhlrich.com | Zahlungsangaben am 17.10. auf Telekom umgestellt. Bestehendes Konto wurde übernommen → **eigene Netflix-Zahlung prüfen/ist erledigt** |
 | Disney+ | Standard | ✅ Konto angelegt/angemeldet (Nutzungsvertrag + Login-Mails vom 17.10.) | ralf@buhlrich.com | Ein evtl. altes Disney+-Abo wird pausiert, nicht gekündigt |
 | RTL+ | Premium | 🟡 registriert am 17.10. 08:21 – **E-Mail-Bestätigung noch offen** | ralf@buhlrich.com | Bestätigungslink in Mail „Willkommen bei RTL+! Aktiviere jetzt deine E-Mail-Adresse" (noreply@rtlplus.com) |
-| Apple TV | Apple TV by Telekom | ⏳ **noch nicht registriert** (Mail ungelesen) | ralf@buhlrich.com (Apple Account) | Gleiche Apple-ID verwenden, sonst doppelte Kosten |
+| Apple TV | Apple TV by Telekom | 🟡 laut Ralf am 17.10. registriert – **Bestätigungsmail von Apple steht noch aus** | ralf@buhlrich.com (Apple Account) | Gleiche Apple-ID verwenden, sonst doppelte Kosten |
 | MagentaTV+ (Megathek) | inklusive | – | Telekom-Login | Keine eigene Registrierung nötig |
 | Paramount+ | **nicht Teil von MegaStream** | ❓ keine Mail gefunden | – | Nur als separate Zubuchoption („Paramount+ by Telekom"). Falls gebucht, kam noch keine Registrierungsmail |
 
 ## Offene Punkte
 
 - [ ] RTL+: E-Mail-Adresse bestätigen (Registrierung erledigt)
-- [ ] Apple TV by Telekom registrieren (mit bestehender Apple-ID ralf@buhlrich.com)
+- [ ] Apple TV: Abo-Bestätigung von Apple abwarten und prüfen (Abos in den Apple-ID-Einstellungen: Partner Telekom, kein doppeltes Direkt-Abo)
 - [ ] Paramount+ klären: gebucht oder nicht? Falls ja, Registrierungsmail abwarten / in MeinMagenta prüfen
 - [ ] Bestehende Direkt-Abos prüfen und ggf. kündigen (Disney+ wird nur pausiert; Apple TV+/RTL+ direkt bezahlt?)
 - [ ] Netflix-Upgrade auf Premium: Aufpreis in Vertragszusammenfassung/Auftrag 91183779190 prüfen
