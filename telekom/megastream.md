@@ -51,6 +51,8 @@ Folgende Mails enthalten Geheimnisse und gehören in den Passwortmanager, nicht 
 
 ## Mail-Chronologie
 
+Volltexte und Anhänge: [mails/](mails/README.md)
+
 | Datum | Absender | Betreff |
 |---|---|---|
 | 13.10. 15:10 | Telekom | Neue Anmeldung mit Ihrem Telekom Login |
