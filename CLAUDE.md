@@ -47,7 +47,7 @@ Einmalige Einrichtung für die Skripte:
 - 17.10.2026: Zweiter Festnetz-Auftrag 91183779190 (vermutlich Netflix-Upgrade auf Premium),
   sofort ausgeführt. Danach Aktivierung der Streamingdienste:
   - Netflix Premium: bestehendes Konto übernommen, Zahlung läuft über Telekom ✅
-  - Disney+ Standard: Konto angelegt ✅
+  - Disney+ Standard: Konto angelegt ✅ (Willkommensmail 18.10., Nutzungsvertrag archiviert)
   - RTL+ Premium: registriert, E-Mail bestätigt ✅
   - Apple TV: über Telekom-Link registriert, Apple bestätigt nur am Bildschirm (keine Mail) ✅
   - Paramount+: nicht Teil von MegaStream, keine Buchung/Mail gefunden ❓
@@ -62,4 +62,4 @@ Details und offene Punkte: `telekom/megastream.md`.
 - [ ] Preise, Mindestlaufzeit, Kündigungsfrist aus der Vertragszusammenfassung in `telekom/megastream.md` eintragen
 - [ ] Paramount+ klären
 - [ ] Alte Direkt-Abos (Disney+, Apple TV, RTL+) prüfen und ggf. kündigen
-- [ ] Noch nicht archiviert (vom Skript erfasst): Disney+ Nutzungsvertrag, zweite Disney-Login-Mail (07:44), zweite Netflix-Gerätemail (08:25)
+- [ ] Noch nicht archiviert (vom Skript erfasst): zweite Netflix-Gerätemail (08:25)

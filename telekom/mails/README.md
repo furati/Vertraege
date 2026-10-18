@@ -20,8 +20,11 @@ Mails mit Zugangsdaten, PINs und Einmal-Codes werden bewusst nicht archiviert.
 | 2026-10-17 07:39 | Netflix | [Es wird ein neues Gerät für Ihr Konto verwendet](2026-10-17_0739_es-wird-ein-neues-geraet-fuer-ihr-konto-verwendet/mail.md) |  |
 | 2026-10-17 07:40 | Telekom | [Wir bedanken uns für Ihren Auftrag.](2026-10-17_0740_wir-bedanken-uns-fuer-ihren-auftrag/mail.md) |  |
 | 2026-10-17 07:42 | Telekom | [Bestätigung zu Ihrem Festnetz-Auftrag vom 17.10.2026](2026-10-17_0742_bestaetigung-zu-ihrem-festnetz-auftrag-vom-17-10-2026/mail.md) | Auftragsbestätigung.pdf |
+| 2026-10-17 07:42 | Disney+ | [Disney+ Nutzungsvertrag](2026-10-17_0742_disney-nutzungsvertrag/mail.md) | nutzungsvertrag.md |
 | 2026-10-17 07:42 | Disney+ | [Wir haben ein neues Einloggen bemerkt](2026-10-17_0742_wir-haben-ein-neues-einloggen-bemerkt/mail.md) |  |
+| 2026-10-17 07:44 | Disney+ | [Wir haben ein neues Einloggen bemerkt](2026-10-17_0744_wir-haben-ein-neues-einloggen-bemerkt/mail.md) |  |
 | 2026-10-17 07:46 | Telekom | [Registrieren Sie sich für Netflix Premium by Telekom (Upgrade)](2026-10-17_0746_registrieren-sie-sich-fuer-netflix-premium-by-telekom-upgrad/mail.md) |  |
 | 2026-10-17 07:46 | Telekom | [Wir haben alles für Sie erledigt.](2026-10-17_0746_wir-haben-alles-fuer-sie-erledigt/mail.md) |  |
 | 2026-10-17 08:21 | RTL+ | [Willkommen bei RTL+! Aktiviere jetzt deine E-Mail-Adresse](2026-10-17_0821_willkommen-bei-rtl-aktiviere-jetzt-deine-e-mail-adresse/mail.md) |  |
 | 2026-10-17 08:28 | RTL+ | [Herzlich Willkommen, Ralf!](2026-10-17_0828_herzlich-willkommen-ralf/mail.md) |  |
+| 2026-10-18 20:08 | Disney+ | [Willkommen bei Disney+](2026-10-18_2008_willkommen-bei-disney/mail.md) |  |

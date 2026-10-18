@@ -25,7 +25,7 @@ Am 13.10.2026 kam auch eine **Mobilfunk-Auftragsbestätigung** (Kundenkonto 0055
 | Dienst | Stufe laut Telekom | Status (17.10.2026) | Konto-Mail | Hinweis |
 |---|---|---|---|---|
 | Netflix | Premium (Upgrade, Standard ist inklusive) | ✅ verknüpft – Netflix bestätigt Partner „Telekom Deutschland GmbH", Abo Premium | ralf@buhlrich.com | Zahlungsangaben am 17.10. auf Telekom umgestellt. Bestehendes Konto wurde übernommen → **eigene Netflix-Zahlung prüfen/ist erledigt** |
-| Disney+ | Standard | ✅ Konto angelegt/angemeldet (Nutzungsvertrag + Login-Mails vom 17.10.) | ralf@buhlrich.com | Ein evtl. altes Disney+-Abo wird pausiert, nicht gekündigt |
+| Disney+ | Standard | ✅ aktiv – Konto angelegt 17.10., Willkommensmail 18.10. ([Nutzungsvertrag](mails/2026-10-17_0742_disney-nutzungsvertrag/nutzungsvertrag.md)) | ralf@buhlrich.com | Ein evtl. altes Disney+-Abo wird pausiert, nicht gekündigt |
 | RTL+ | Premium | ✅ aktiv – registriert und E-Mail bestätigt (17.10., Willkommensmail 08:28) | ralf@buhlrich.com | Premium-Status über Telekom in der RTL+-App prüfen |
 | Apple TV | Apple TV by Telekom | ✅ aktiviert am 17.10. über den Link in der Telekom-Mail – Apple hat nur auf dem Bildschirm bestätigt, keine Bestätigungsmail | ralf@buhlrich.com (Apple Account) | Gleiche Apple-ID verwenden, sonst doppelte Kosten |
 | MagentaTV+ (Megathek) | inklusive | – | Telekom-Login | Keine eigene Registrierung nötig |
@@ -77,3 +77,4 @@ Volltexte und Anhänge: [mails/](mails/README.md)
 | 17.10. 08:21 | RTL+ | Willkommen bei RTL+! Aktiviere jetzt deine E-Mail-Adresse |
 | 17.10. 08:25 | Netflix | Login-Code + neues Gerät angemeldet |
 | 17.10. 08:28 | RTL+ | Herzlich Willkommen, Ralf! (Konto aktiv) |
+| 18.10. 20:08 | Disney+ | Willkommen bei Disney+ (Konto aktiv) |
